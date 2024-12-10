@@ -1,0 +1,202 @@
+﻿Query,loinc_num,long_common_name,component,system,property
+Query: BILIRUBIN IN PLASMA,934-0,Blood product unit ID [#],Blood product unit ID,Dose,Num
+Query: BILIRUBIN IN PLASMA,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,Alanine aminotransferase,Ser/Plas,CCnc
+Query: BILIRUBIN IN PLASMA,20565-8,"Carbon dioxide, total [Moles/volume] in Blood",Carbon dioxide,Bld,SCnc
+Query: BILIRUBIN IN PLASMA,1959-6,Bicarbonate [Moles/volume] in Blood,Bicarbonate,Bld,SCnc
+Query: BILIRUBIN IN PLASMA,18906-8,Ciprofloxacin [Susceptibility],Ciprofloxacin,Isolate,Susc
+Query: BILIRUBIN IN PLASMA,18865-6,Ampicillin+Sulbactam [Susceptibility],Ampicillin+Sulbactam,Isolate,Susc
+Query: BILIRUBIN IN PLASMA,13317-3,Methicillin resistant Staphylococcus aureus [Presence] in Unspecified specimen by Organism specific culture,Staphylococcus aureus.methicillin resistant isolate,XXX,ACnc
+Query: BILIRUBIN IN PLASMA,882-1,ABO & Rh group [Type] in Blood,ABO+Rh group,Bld,Type
+Query: BILIRUBIN IN PLASMA,26464-8,Leukocytes [#/volume] in Blood,Leukocytes,Bld,NCnc
+Query: BILIRUBIN IN PLASMA,1968-7,Bilirubin.direct [Mass/volume] in Serum or Plasma,Bilirubin.glucuronidated+Bilirubin.albumin bound,Ser/Plas,MCnc
+Query: BILIRUBIN IN PLASMA,8310-5,Body temperature,Body temperature,^Patient,Temp
+Query: BILIRUBIN IN PLASMA,30522-7,C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method,C reactive protein,Ser/Plas,MCnc
+Query: BILIRUBIN IN PLASMA,18878-9,Cefazolin [Susceptibility],Cefazolin,Isolate,Susc
+Query: BILIRUBIN IN PLASMA,1994-3,Calcium.ionized [Moles/volume] in Blood,Calcium.ionized,Bld,SCnc
+Query: BILIRUBIN IN PLASMA,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,Bilirubin,Ser/Plas,MCnc
+Query: BILIRUBIN IN PLASMA,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,Cholesterol,Ser/Plas,MCnc
+Query: BILIRUBIN IN PLASMA,10331-7,Rh [Type] in Blood,Rh,Bld,Type
+Query: BILIRUBIN IN PLASMA,1250-0,Major crossmatch [interpretation],Major crossmatch,Ser/Plas,Imp
+Query: BILIRUBIN IN PLASMA,18955-5,Nitrofurantoin [Susceptibility],Nitrofurantoin,Isolate,Susc
+Query: BILIRUBIN IN PLASMA,19000-9,Vancomycin [Susceptibility],Vancomycin,Isolate,Susc
+Query: BILIRUBIN IN PLASMA,18864-9,Ampicillin [Susceptibility],Ampicillin,Isolate,Susc
+Query: BILIRUBIN IN PLASMA,890-4,Blood group antibody screen [Presence] in Serum or Plasma,Blood group antibody screen,Ser/Plas,ACnc
+Query: BILIRUBIN IN PLASMA,14578-9,ABO group [Type] in Blood from Blood product unit,ABO group,Bld^BPU,Type
+Query: BILIRUBIN IN PLASMA,17861-6,Calcium [Mass/volume] in Serum or Plasma,Calcium,Ser/Plas,MCnc
+Query: BILIRUBIN IN PLASMA,1759-0,Albumin/Globulin [Mass ratio] in Serum or Plasma,Albumin/Globulin,Ser/Plas,MCrto
+Query: BILIRUBIN IN PLASMA,2028-9,"Carbon dioxide, total [Moles/volume] in Serum or Plasma",Carbon dioxide,Ser/Plas,SCnc
+Query: BILIRUBIN IN PLASMA,883-9,ABO group [Type] in Blood,ABO group,Bld,Type
+Query: BILIRUBIN IN PLASMA,23658-8,Other Antibiotic [Susceptibility],Antibiotic XXX,Isolate,Susc
+Query: BILIRUBIN IN PLASMA,1971-1,Bilirubin.indirect [Mass/volume] in Serum or Plasma,Bilirubin.non-glucuronidated,Ser/Plas,MCnc
+Query: BILIRUBIN IN PLASMA,20442-0,Hepatitis B virus DNA [#/volume] (viral load) in Serum by Probe with signal amplification,Hepatitis B virus DNA,Ser,NCnc
+Query: BILIRUBIN IN PLASMA,74774-1,"Glucose [Mass/volume] in Serum, Plasma or Blood",Glucose,Ser/Plas/Bld,MCnc
+Query: BILIRUBIN IN PLASMA,14747-0,Glucose [Moles/volume] in Pleural fluid,Glucose,Plr fld,SCnc
+Query: BILIRUBIN IN PLASMA,35192-4,Bilirubin.indirect [Mass or Moles/volume] in Serum or Plasma,Bilirubin.non-glucuronidated,Ser/Plas,MSCnc
+Query: BILIRUBIN IN PLASMA,2143-6,Cortisol [Mass/volume] in Serum or Plasma,Cortisol,Ser/Plas,MCnc
+Query: BILIRUBIN IN PLASMA,2039-6,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma,Carcinoembryonic Ag,Ser/Plas,MCnc
+Query: BILIRUBIN IN PLASMA,26474-7,Lymphocytes [#/volume] in Blood,Lymphocytes,Bld,NCnc
+Query: BILIRUBIN IN PLASMA,3082-5,Tyrosine aminotransferase [Mass/volume] in Plasma,Tyrosine aminotransferase,Plas,MCnc
+Query: BILIRUBIN IN PLASMA,14423-8,Bilirubin.total [Mass/volume] in Synovial fluid,Bilirubin,Synv fld,MCnc
+Query: BILIRUBIN IN PLASMA,18928-2,Gentamicin [Susceptibility],Gentamicin,Isolate,Susc
+Query: BILIRUBIN IN PLASMA,26478-8,Lymphocytes/100 leukocytes in Blood,Lymphocytes/100 leukocytes,Bld,NFr
+Query: BILIRUBIN IN PLASMA,1003-3,Indirect antiglobulin test.complement specific reagent [Presence] in Serum or Plasma,Indirect antiglobulin test.complement specific reagent,Ser/Plas,ACnc
+Query: BILIRUBIN IN PLASMA,14749-6,Glucose [Moles/volume] in Serum or Plasma,Glucose,Ser/Plas,SCnc
+Query: BILIRUBIN IN PLASMA,933-2,Blood product type,Blood product type,^BPU,Type
+Query: BILIRUBIN IN PLASMA,26484-6,Monocytes [#/volume] in Blood,Monocytes,Bld,NCnc
+Query: BILIRUBIN IN PLASMA,1751-7,Albumin [Mass/volume] in Serum or Plasma,Albumin,Ser/Plas,MCnc
+Query: BILIRUBIN IN PLASMA,2132-9,Cobalamin (Vitamin B12) [Mass/volume] in Serum,Cobalamins,Ser,MCnc
+Query: BILIRUBIN IN PLASMA,14764-5,Glucose [Moles/volume] in Serum or Plasma --3 hours post 100 g glucose PO,Glucose^3H post 100 g glucose PO,Ser/Plas,SCnc
+Query: BILIRUBIN IN PLASMA,15076-3,Glucose [Moles/volume] in Urine,Glucose,Urine,SCnc
+Query: BILIRUBIN IN PLASMA,19080-1,Choriogonadotropin [Units/volume] in Serum or Plasma,Choriogonadotropin,Ser/Plas,ACnc
+Query: BILIRUBIN IN PLASMA,925-8,Blood product disposition [Type],Blood product disposition,^BPU,Type
+Query: BILIRUBIN IN PLASMA,20629-2,Levofloxacin [Susceptibility],Levofloxacin,Isolate,Susc
+Query: BILIRUBIN IN PLASMA,2111-3,Choriogonadotropin.beta subunit [Moles/volume] in Serum or Plasma,Choriogonadotropin.beta subunit,Ser/Plas,SCnc
+Query: BILIRUBIN IN PLASMA,29265-6,Calcium [Moles/volume] corrected for albumin in Serum or Plasma,Calcium^^corrected for albumin,Ser/Plas,SCnc
+Query: BILIRUBIN IN PLASMA,35184-1,Fasting glucose [Mass or Moles/volume] in Serum or Plasma,Glucose^post CFst,Ser/Plas,MSCnc
+Query: BILIRUBIN IN PLASMA,2069-3,Chloride [Moles/volume] in Blood,Chloride,Bld,SCnc
+Query: BILIRUBIN IN PLASMA,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,Alkaline phosphatase,Ser/Plas,CCnc
+Query: BILIRUBIN IN PLASMA,31100-1,Hematocrit [Volume Fraction] of Blood by Impedance,Hematocrit,Bld,VFr
+Query: BILIRUBIN IN PLASMA,1798-8,Amylase [Enzymatic activity/volume] in Serum or Plasma,Amylase,Ser/Plas,CCnc
+Query: BILIRUBIN IN PLASMA,2075-0,Chloride [Moles/volume] in Serum or Plasma,Chloride,Ser/Plas,SCnc
+Query: BILIRUBIN IN PLASMA,4671-4,Protein C [Mass/volume] in Plasma,Protein C,Plas,MCnc
+Query: BILIRUBIN IN PLASMA,18998-5,Trimethoprim+Sulfamethoxazole [Susceptibility],Trimethoprim+Sulfamethoxazole,Isolate,Susc
+Query: BILIRUBIN IN PLASMA,54439-5,Calcium bilirubinate/Total in Stone,Calcium bilirubinate/Total,Calculus,MFr
+Query: BILIRUBIN IN PLASMA,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,Aspartate aminotransferase,Ser/Plas,CCnc
+Query: BILIRUBIN IN PLASMA,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,Cholesterol.in HDL,Ser/Plas,MCnc
+Query: BILIRUBIN IN PLASMA,1995-0,Calcium.ionized [Moles/volume] in Serum or Plasma,Calcium.ionized,Ser/Plas,SCnc
+Query: BILIRUBIN IN PLASMA,33870-7,Bilirubin.total [Presence] in Unspecified specimen,Bilirubin,XXX,PrThr
+Query: BILIRUBIN IN PLASMA,1988-5,C reactive protein [Mass/volume] in Serum or Plasma,C reactive protein,Ser/Plas,MCnc
+Query: GLUCOSE IN BLOOD,1988-5,C reactive protein [Mass/volume] in Serum or Plasma,C reactive protein,Ser/Plas,MCnc
+Query: GLUCOSE IN BLOOD,1959-6,Bicarbonate [Moles/volume] in Blood,Bicarbonate,Bld,SCnc
+Query: GLUCOSE IN BLOOD,10331-7,Rh [Type] in Blood,Rh,Bld,Type
+Query: GLUCOSE IN BLOOD,18998-5,Trimethoprim+Sulfamethoxazole [Susceptibility],Trimethoprim+Sulfamethoxazole,Isolate,Susc
+Query: GLUCOSE IN BLOOD,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,Bilirubin,Ser/Plas,MCnc
+Query: GLUCOSE IN BLOOD,890-4,Blood group antibody screen [Presence] in Serum or Plasma,Blood group antibody screen,Ser/Plas,ACnc
+Query: GLUCOSE IN BLOOD,20565-8,"Carbon dioxide, total [Moles/volume] in Blood",Carbon dioxide,Bld,SCnc
+Query: GLUCOSE IN BLOOD,18906-8,Ciprofloxacin [Susceptibility],Ciprofloxacin,Isolate,Susc
+Query: GLUCOSE IN BLOOD,2143-6,Cortisol [Mass/volume] in Serum or Plasma,Cortisol,Ser/Plas,MCnc
+Query: GLUCOSE IN BLOOD,2075-0,Chloride [Moles/volume] in Serum or Plasma,Chloride,Ser/Plas,SCnc
+Query: GLUCOSE IN BLOOD,4671-4,Protein C [Mass/volume] in Plasma,Protein C,Plas,MCnc
+Query: GLUCOSE IN BLOOD,18864-9,Ampicillin [Susceptibility],Ampicillin,Isolate,Susc
+Query: GLUCOSE IN BLOOD,15076-3,Glucose [Moles/volume] in Urine,Glucose,Urine,SCnc
+Query: GLUCOSE IN BLOOD,1798-8,Amylase [Enzymatic activity/volume] in Serum or Plasma,Amylase,Ser/Plas,CCnc
+Query: GLUCOSE IN BLOOD,26474-7,Lymphocytes [#/volume] in Blood,Lymphocytes,Bld,NCnc
+Query: GLUCOSE IN BLOOD,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,Aspartate aminotransferase,Ser/Plas,CCnc
+Query: GLUCOSE IN BLOOD,13317-3,Methicillin resistant Staphylococcus aureus [Presence] in Unspecified specimen by Organism specific culture,Staphylococcus aureus.methicillin resistant isolate,XXX,ACnc
+Query: GLUCOSE IN BLOOD,925-8,Blood product disposition [Type],Blood product disposition,^BPU,Type
+Query: GLUCOSE IN BLOOD,14749-6,Glucose [Moles/volume] in Serum or Plasma,Glucose,Ser/Plas,SCnc
+Query: GLUCOSE IN BLOOD,14747-0,Glucose [Moles/volume] in Pleural fluid,Glucose,Plr fld,SCnc
+Query: GLUCOSE IN BLOOD,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,Cholesterol,Ser/Plas,MCnc
+Query: GLUCOSE IN BLOOD,1968-7,Bilirubin.direct [Mass/volume] in Serum or Plasma,Bilirubin.glucuronidated+Bilirubin.albumin bound,Ser/Plas,MCnc
+Query: GLUCOSE IN BLOOD,26464-8,Leukocytes [#/volume] in Blood,Leukocytes,Bld,NCnc
+Query: GLUCOSE IN BLOOD,74774-1,"Glucose [Mass/volume] in Serum, Plasma or Blood",Glucose,Ser/Plas/Bld,MCnc
+Query: GLUCOSE IN BLOOD,8310-5,Body temperature,Body temperature,^Patient,Temp
+Query: GLUCOSE IN BLOOD,934-0,Blood product unit ID [#],Blood product unit ID,Dose,Num
+Query: GLUCOSE IN BLOOD,14423-8,Bilirubin.total [Mass/volume] in Synovial fluid,Bilirubin,Synv fld,MCnc
+Query: GLUCOSE IN BLOOD,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,Alanine aminotransferase,Ser/Plas,CCnc
+Query: GLUCOSE IN BLOOD,14764-5,Glucose [Moles/volume] in Serum or Plasma --3 hours post 100 g glucose PO,Glucose^3H post 100 g glucose PO,Ser/Plas,SCnc
+Query: GLUCOSE IN BLOOD,1994-3,Calcium.ionized [Moles/volume] in Blood,Calcium.ionized,Bld,SCnc
+Query: GLUCOSE IN BLOOD,1751-7,Albumin [Mass/volume] in Serum or Plasma,Albumin,Ser/Plas,MCnc
+Query: GLUCOSE IN BLOOD,1003-3,Indirect antiglobulin test.complement specific reagent [Presence] in Serum or Plasma,Indirect antiglobulin test.complement specific reagent,Ser/Plas,ACnc
+Query: GLUCOSE IN BLOOD,1971-1,Bilirubin.indirect [Mass/volume] in Serum or Plasma,Bilirubin.non-glucuronidated,Ser/Plas,MCnc
+Query: GLUCOSE IN BLOOD,26484-6,Monocytes [#/volume] in Blood,Monocytes,Bld,NCnc
+Query: GLUCOSE IN BLOOD,18865-6,Ampicillin+Sulbactam [Susceptibility],Ampicillin+Sulbactam,Isolate,Susc
+Query: GLUCOSE IN BLOOD,882-1,ABO & Rh group [Type] in Blood,ABO+Rh group,Bld,Type
+Query: GLUCOSE IN BLOOD,1250-0,Major crossmatch [interpretation],Major crossmatch,Ser/Plas,Imp
+Query: GLUCOSE IN BLOOD,883-9,ABO group [Type] in Blood,ABO group,Bld,Type
+Query: GLUCOSE IN BLOOD,2132-9,Cobalamin (Vitamin B12) [Mass/volume] in Serum,Cobalamins,Ser,MCnc
+Query: GLUCOSE IN BLOOD,31100-1,Hematocrit [Volume Fraction] of Blood by Impedance,Hematocrit,Bld,VFr
+Query: GLUCOSE IN BLOOD,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,Alkaline phosphatase,Ser/Plas,CCnc
+Query: GLUCOSE IN BLOOD,2069-3,Chloride [Moles/volume] in Blood,Chloride,Bld,SCnc
+Query: GLUCOSE IN BLOOD,3082-5,Tyrosine aminotransferase [Mass/volume] in Plasma,Tyrosine aminotransferase,Plas,MCnc
+Query: GLUCOSE IN BLOOD,30522-7,C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method,C reactive protein,Ser/Plas,MCnc
+Query: GLUCOSE IN BLOOD,33870-7,Bilirubin.total [Presence] in Unspecified specimen,Bilirubin,XXX,PrThr
+Query: GLUCOSE IN BLOOD,20442-0,Hepatitis B virus DNA [#/volume] (viral load) in Serum by Probe with signal amplification,Hepatitis B virus DNA,Ser,NCnc
+Query: GLUCOSE IN BLOOD,2111-3,Choriogonadotropin.beta subunit [Moles/volume] in Serum or Plasma,Choriogonadotropin.beta subunit,Ser/Plas,SCnc
+Query: GLUCOSE IN BLOOD,14578-9,ABO group [Type] in Blood from Blood product unit,ABO group,Bld^BPU,Type
+Query: GLUCOSE IN BLOOD,18955-5,Nitrofurantoin [Susceptibility],Nitrofurantoin,Isolate,Susc
+Query: GLUCOSE IN BLOOD,2039-6,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma,Carcinoembryonic Ag,Ser/Plas,MCnc
+Query: GLUCOSE IN BLOOD,933-2,Blood product type,Blood product type,^BPU,Type
+Query: GLUCOSE IN BLOOD,19000-9,Vancomycin [Susceptibility],Vancomycin,Isolate,Susc
+Query: GLUCOSE IN BLOOD,26478-8,Lymphocytes/100 leukocytes in Blood,Lymphocytes/100 leukocytes,Bld,NFr
+Query: GLUCOSE IN BLOOD,19080-1,Choriogonadotropin [Units/volume] in Serum or Plasma,Choriogonadotropin,Ser/Plas,ACnc
+Query: GLUCOSE IN BLOOD,1995-0,Calcium.ionized [Moles/volume] in Serum or Plasma,Calcium.ionized,Ser/Plas,SCnc
+Query: GLUCOSE IN BLOOD,35184-1,Fasting glucose [Mass or Moles/volume] in Serum or Plasma,Glucose^post CFst,Ser/Plas,MSCnc
+Query: GLUCOSE IN BLOOD,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,Cholesterol.in HDL,Ser/Plas,MCnc
+Query: GLUCOSE IN BLOOD,1759-0,Albumin/Globulin [Mass ratio] in Serum or Plasma,Albumin/Globulin,Ser/Plas,MCrto
+Query: GLUCOSE IN BLOOD,2028-9,"Carbon dioxide, total [Moles/volume] in Serum or Plasma",Carbon dioxide,Ser/Plas,SCnc
+Query: GLUCOSE IN BLOOD,35192-4,Bilirubin.indirect [Mass or Moles/volume] in Serum or Plasma,Bilirubin.non-glucuronidated,Ser/Plas,MSCnc
+Query: GLUCOSE IN BLOOD,20629-2,Levofloxacin [Susceptibility],Levofloxacin,Isolate,Susc
+Query: GLUCOSE IN BLOOD,17861-6,Calcium [Mass/volume] in Serum or Plasma,Calcium,Ser/Plas,MCnc
+Query: GLUCOSE IN BLOOD,54439-5,Calcium bilirubinate/Total in Stone,Calcium bilirubinate/Total,Calculus,MFr
+Query: GLUCOSE IN BLOOD,18878-9,Cefazolin [Susceptibility],Cefazolin,Isolate,Susc
+Query: GLUCOSE IN BLOOD,18928-2,Gentamicin [Susceptibility],Gentamicin,Isolate,Susc
+Query: GLUCOSE IN BLOOD,29265-6,Calcium [Moles/volume] corrected for albumin in Serum or Plasma,Calcium^^corrected for albumin,Ser/Plas,SCnc
+Query: GLUCOSE IN BLOOD,23658-8,Other Antibiotic [Susceptibility],Antibiotic XXX,Isolate,Susc
+Query: WHITE BLOOD CELLS COUNT,33870-7,Bilirubin.total [Presence] in Unspecified specimen,Bilirubin,XXX,PrThr
+Query: WHITE BLOOD CELLS COUNT,29265-6,Calcium [Moles/volume] corrected for albumin in Serum or Plasma,Calcium^^corrected for albumin,Ser/Plas,SCnc
+Query: WHITE BLOOD CELLS COUNT,14423-8,Bilirubin.total [Mass/volume] in Synovial fluid,Bilirubin,Synv fld,MCnc
+Query: WHITE BLOOD CELLS COUNT,23658-8,Other Antibiotic [Susceptibility],Antibiotic XXX,Isolate,Susc
+Query: WHITE BLOOD CELLS COUNT,19000-9,Vancomycin [Susceptibility],Vancomycin,Isolate,Susc
+Query: WHITE BLOOD CELLS COUNT,14749-6,Glucose [Moles/volume] in Serum or Plasma,Glucose,Ser/Plas,SCnc
+Query: WHITE BLOOD CELLS COUNT,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,Aspartate aminotransferase,Ser/Plas,CCnc
+Query: WHITE BLOOD CELLS COUNT,18878-9,Cefazolin [Susceptibility],Cefazolin,Isolate,Susc
+Query: WHITE BLOOD CELLS COUNT,20442-0,Hepatitis B virus DNA [#/volume] (viral load) in Serum by Probe with signal amplification,Hepatitis B virus DNA,Ser,NCnc
+Query: WHITE BLOOD CELLS COUNT,1751-7,Albumin [Mass/volume] in Serum or Plasma,Albumin,Ser/Plas,MCnc
+Query: WHITE BLOOD CELLS COUNT,13317-3,Methicillin resistant Staphylococcus aureus [Presence] in Unspecified specimen by Organism specific culture,Staphylococcus aureus.methicillin resistant isolate,XXX,ACnc
+Query: WHITE BLOOD CELLS COUNT,15076-3,Glucose [Moles/volume] in Urine,Glucose,Urine,SCnc
+Query: WHITE BLOOD CELLS COUNT,35184-1,Fasting glucose [Mass or Moles/volume] in Serum or Plasma,Glucose^post CFst,Ser/Plas,MSCnc
+Query: WHITE BLOOD CELLS COUNT,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,Cholesterol.in HDL,Ser/Plas,MCnc
+Query: WHITE BLOOD CELLS COUNT,26464-8,Leukocytes [#/volume] in Blood,Leukocytes,Bld,NCnc
+Query: WHITE BLOOD CELLS COUNT,925-8,Blood product disposition [Type],Blood product disposition,^BPU,Type
+Query: WHITE BLOOD CELLS COUNT,1994-3,Calcium.ionized [Moles/volume] in Blood,Calcium.ionized,Bld,SCnc
+Query: WHITE BLOOD CELLS COUNT,1798-8,Amylase [Enzymatic activity/volume] in Serum or Plasma,Amylase,Ser/Plas,CCnc
+Query: WHITE BLOOD CELLS COUNT,1959-6,Bicarbonate [Moles/volume] in Blood,Bicarbonate,Bld,SCnc
+Query: WHITE BLOOD CELLS COUNT,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,Bilirubin,Ser/Plas,MCnc
+Query: WHITE BLOOD CELLS COUNT,18928-2,Gentamicin [Susceptibility],Gentamicin,Isolate,Susc
+Query: WHITE BLOOD CELLS COUNT,14578-9,ABO group [Type] in Blood from Blood product unit,ABO group,Bld^BPU,Type
+Query: WHITE BLOOD CELLS COUNT,934-0,Blood product unit ID [#],Blood product unit ID,Dose,Num
+Query: WHITE BLOOD CELLS COUNT,4671-4,Protein C [Mass/volume] in Plasma,Protein C,Plas,MCnc
+Query: WHITE BLOOD CELLS COUNT,2069-3,Chloride [Moles/volume] in Blood,Chloride,Bld,SCnc
+Query: WHITE BLOOD CELLS COUNT,2111-3,Choriogonadotropin.beta subunit [Moles/volume] in Serum or Plasma,Choriogonadotropin.beta subunit,Ser/Plas,SCnc
+Query: WHITE BLOOD CELLS COUNT,17861-6,Calcium [Mass/volume] in Serum or Plasma,Calcium,Ser/Plas,MCnc
+Query: WHITE BLOOD CELLS COUNT,2075-0,Chloride [Moles/volume] in Serum or Plasma,Chloride,Ser/Plas,SCnc
+Query: WHITE BLOOD CELLS COUNT,933-2,Blood product type,Blood product type,^BPU,Type
+Query: WHITE BLOOD CELLS COUNT,2132-9,Cobalamin (Vitamin B12) [Mass/volume] in Serum,Cobalamins,Ser,MCnc
+Query: WHITE BLOOD CELLS COUNT,19080-1,Choriogonadotropin [Units/volume] in Serum or Plasma,Choriogonadotropin,Ser/Plas,ACnc
+Query: WHITE BLOOD CELLS COUNT,26478-8,Lymphocytes/100 leukocytes in Blood,Lymphocytes/100 leukocytes,Bld,NFr
+Query: WHITE BLOOD CELLS COUNT,14747-0,Glucose [Moles/volume] in Pleural fluid,Glucose,Plr fld,SCnc
+Query: WHITE BLOOD CELLS COUNT,20565-8,"Carbon dioxide, total [Moles/volume] in Blood",Carbon dioxide,Bld,SCnc
+Query: WHITE BLOOD CELLS COUNT,2028-9,"Carbon dioxide, total [Moles/volume] in Serum or Plasma",Carbon dioxide,Ser/Plas,SCnc
+Query: WHITE BLOOD CELLS COUNT,18955-5,Nitrofurantoin [Susceptibility],Nitrofurantoin,Isolate,Susc
+Query: WHITE BLOOD CELLS COUNT,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,Cholesterol,Ser/Plas,MCnc
+Query: WHITE BLOOD CELLS COUNT,18998-5,Trimethoprim+Sulfamethoxazole [Susceptibility],Trimethoprim+Sulfamethoxazole,Isolate,Susc
+Query: WHITE BLOOD CELLS COUNT,890-4,Blood group antibody screen [Presence] in Serum or Plasma,Blood group antibody screen,Ser/Plas,ACnc
+Query: WHITE BLOOD CELLS COUNT,14764-5,Glucose [Moles/volume] in Serum or Plasma --3 hours post 100 g glucose PO,Glucose^3H post 100 g glucose PO,Ser/Plas,SCnc
+Query: WHITE BLOOD CELLS COUNT,2143-6,Cortisol [Mass/volume] in Serum or Plasma,Cortisol,Ser/Plas,MCnc
+Query: WHITE BLOOD CELLS COUNT,2039-6,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma,Carcinoembryonic Ag,Ser/Plas,MCnc
+Query: WHITE BLOOD CELLS COUNT,1971-1,Bilirubin.indirect [Mass/volume] in Serum or Plasma,Bilirubin.non-glucuronidated,Ser/Plas,MCnc
+Query: WHITE BLOOD CELLS COUNT,18906-8,Ciprofloxacin [Susceptibility],Ciprofloxacin,Isolate,Susc
+Query: WHITE BLOOD CELLS COUNT,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,Alkaline phosphatase,Ser/Plas,CCnc
+Query: WHITE BLOOD CELLS COUNT,1988-5,C reactive protein [Mass/volume] in Serum or Plasma,C reactive protein,Ser/Plas,MCnc
+Query: WHITE BLOOD CELLS COUNT,74774-1,"Glucose [Mass/volume] in Serum, Plasma or Blood",Glucose,Ser/Plas/Bld,MCnc
+Query: WHITE BLOOD CELLS COUNT,1995-0,Calcium.ionized [Moles/volume] in Serum or Plasma,Calcium.ionized,Ser/Plas,SCnc
+Query: WHITE BLOOD CELLS COUNT,1759-0,Albumin/Globulin [Mass ratio] in Serum or Plasma,Albumin/Globulin,Ser/Plas,MCrto
+Query: WHITE BLOOD CELLS COUNT,20629-2,Levofloxacin [Susceptibility],Levofloxacin,Isolate,Susc
+Query: WHITE BLOOD CELLS COUNT,1968-7,Bilirubin.direct [Mass/volume] in Serum or Plasma,Bilirubin.glucuronidated+Bilirubin.albumin bound,Ser/Plas,MCnc
+Query: WHITE BLOOD CELLS COUNT,35192-4,Bilirubin.indirect [Mass or Moles/volume] in Serum or Plasma,Bilirubin.non-glucuronidated,Ser/Plas,MSCnc
+Query: WHITE BLOOD CELLS COUNT,883-9,ABO group [Type] in Blood,ABO group,Bld,Type
+Query: WHITE BLOOD CELLS COUNT,1003-3,Indirect antiglobulin test.complement specific reagent [Presence] in Serum or Plasma,Indirect antiglobulin test.complement specific reagent,Ser/Plas,ACnc
+Query: WHITE BLOOD CELLS COUNT,54439-5,Calcium bilirubinate/Total in Stone,Calcium bilirubinate/Total,Calculus,MFr
+Query: WHITE BLOOD CELLS COUNT,3082-5,Tyrosine aminotransferase [Mass/volume] in Plasma,Tyrosine aminotransferase,Plas,MCnc
+Query: WHITE BLOOD CELLS COUNT,30522-7,C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method,C reactive protein,Ser/Plas,MCnc
+Query: WHITE BLOOD CELLS COUNT,10331-7,Rh [Type] in Blood,Rh,Bld,Type
+Query: WHITE BLOOD CELLS COUNT,26474-7,Lymphocytes [#/volume] in Blood,Lymphocytes,Bld,NCnc
+Query: WHITE BLOOD CELLS COUNT,8310-5,Body temperature,Body temperature,^Patient,Temp
+Query: WHITE BLOOD CELLS COUNT,31100-1,Hematocrit [Volume Fraction] of Blood by Impedance,Hematocrit,Bld,VFr
+Query: WHITE BLOOD CELLS COUNT,882-1,ABO & Rh group [Type] in Blood,ABO+Rh group,Bld,Type
+Query: WHITE BLOOD CELLS COUNT,26484-6,Monocytes [#/volume] in Blood,Monocytes,Bld,NCnc
+Query: WHITE BLOOD CELLS COUNT,1250-0,Major crossmatch [interpretation],Major crossmatch,Ser/Plas,Imp
+Query: WHITE BLOOD CELLS COUNT,18864-9,Ampicillin [Susceptibility],Ampicillin,Isolate,Susc
+Query: WHITE BLOOD CELLS COUNT,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,Alanine aminotransferase,Ser/Plas,CCnc
+Query: WHITE BLOOD CELLS COUNT,18865-6,Ampicillin+Sulbactam [Susceptibility],Ampicillin+Sulbactam,Isolate,Susc

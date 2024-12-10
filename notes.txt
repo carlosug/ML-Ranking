@@ -1,0 +1,55 @@
+## 26 Sept: Victor
+
+slides: https://moodle.upm.es/titulaciones/oficiales/pluginfile.php/12154040/mod_resource/content/1/IA.medicina.22-23.MUIA.final.moodle.pdf
+
+
+- About of first expert systems [i] - pag 95:
+AI - Knwledge 1970 -1990
+Symbolic
+what is the logic of the brain?
+
+Steps on the methodology:
+- 1. Goal
+- 2. knowledge adquisition
+- 3. how to represent knowledge?
+- 4. how to implement the system? tools
+- 5. Evaluation of the system
+
+
+
+MYCIN system early bird: https://en.wikipedia.org/wiki/Mycin
+PERFEX system
+
+* After 1990 - Data-based systems - TREND SHIFT (slide)
+
+now the expert system is the computer decision support system
+
+standards - Unified model language systems - SNOMED
+Interoperability - FHIR
+
+AI in medicine - Watson Flops IBM
+
+
+3 assignments:
+
+Victor - Ontology or GenAI
+option 1:
+2024 research in bioinformatics
+Ontology using protege or other tool
+extract concepts from another ontology in bioportal
+1, select the paper and the goal
+2, knoledge adquisition -- identify concepts and relations of the paper
+3, integrate concept of another ontlogy
+option 2:
+machine learning
+Prof 2 - 
+Prof 3 - 
+
+
+
+Bioportal
+The OBO Foundry
+HUGO Gene Nomenclature Commitee
+
+- SNOMED
+- HL7
