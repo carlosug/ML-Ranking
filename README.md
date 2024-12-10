@@ -1,8 +1,12 @@
-# ML-Ranking
-Lab ML Ranking Assignment
+# The Pointwise Approach -- Staged Logistic Regression
+Lab ML Ranking Assignment: 
 
-## Exercises
 
+## Slides
+[https://carlosug.github.io/ML-Ranking/notebook_rank.slides.html#/](https://carlosug.github.io/ML-Ranking/notebook_rank.slides.html#/)
+
+
+## Exercises in the assignment:
 
 1. Choose a type of MLR approach
 2. Understand how it works
@@ -31,5 +35,4 @@ Lab ML Ranking Assignment
 - Model outputs: [logistic_model.pkl](logistic_model.pkl) and [scaler.pkl](scaler.pkl)
 
 
-## Slides
-[https://carlosug.github.io/ML-Ranking/notebook_rank.slides.html#/](https://carlosug.github.io/ML-Ranking/notebook_rank.slides.html#/)
+---
