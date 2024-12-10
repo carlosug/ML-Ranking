@@ -1,5 +1,6 @@
-# The Pointwise Approach -- Staged Logistic Regression
-Lab ML Ranking Assignment: 
+# Lab ML Ranking Assignment
+
+**The Pointwise Approach -- Staged Logistic Regression**
 
 
 ## Slides
