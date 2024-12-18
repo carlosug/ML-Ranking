@@ -6,6 +6,11 @@
 ## Slides
 [https://carlosug.github.io/ML-Ranking/notebook_rank.slides.html#/](https://carlosug.github.io/ML-Ranking/notebook_rank.slides.html#/)
 
+To make the slides, run in `dir`:
+```bash
+❯ jupyter nbconvert notebook_rank.ipynb --to slides --post serve --ServePostProcessor.port=8889
+```
+
 
 ## Exercises in the assignment:
 
